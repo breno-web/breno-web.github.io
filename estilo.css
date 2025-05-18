@@ -1,0 +1,18 @@
+.csgo{background: url(imagens/587592.png) no-repeat;
+    width: 200px;
+    height: 200px;
+    display: block;
+    background-size: contain;
+    border-radius:50%;
+}
+body {
+    background-color: lightblue;
+}
+h1{
+    color: rgb(103, 111, 216);
+}
+p{
+    font-size: 25px;
+    text-align: justify;
+}
+#urla {margin-bottom:10px;}
